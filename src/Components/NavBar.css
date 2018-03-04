@@ -1,0 +1,4 @@
+NavbarToggler.propTypes = {
+  type: PropTypes.string;
+  tag: PropTypes.oneOfType([PropTypes.func, PropTypes.string]);
+}
